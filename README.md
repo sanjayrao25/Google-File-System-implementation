@@ -12,7 +12,7 @@ To run the client - <b>python3 client.py</b></br>
 In client after running it:<br>
 <b>upload file_name</b> - To upload the file into the chunkservers<br>
 <b>download file_name</b>: To download the file from the chunkservers<br>
-<b>lease file_name</b>: Put a lease/lock on the file,so that no other client can upload/download the file
+<b>lease file_name</b>: Put a lease/lock on the file,so that no other client can upload/download the file<br>
 <b>unlease file_name</b>: Remove the lease put on the file...
 
 
