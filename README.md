@@ -6,7 +6,7 @@ Implementation of Google File System in Python 3
 Testing Formats:<br>
 To run the Master Server - <b>python3 Master_Server.py</b><br>
 To run the BackUp Master Server - <b>python3 Backup_Master_Server.py </b><br>
-To run the chunkserver (All the chunkservers to be run with their port numbers) - <b>python3 chunk_server.py port_number(of chunkserver)</b><br>
+<b>python3 chunk_server.py port_number(of chunkserver)</b> - To run the chunkserver (All the chunkservers to be run with their port numbers)<br>
 To run the client - <b>python3 client.py</b></br>
 
 In client after running it:
